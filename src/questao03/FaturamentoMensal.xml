@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FaturamentoMensal>
+    <MesAno>Setembro-2024</MesAno>
+    <Dias>
+        <Dia data="9-01">
+            <Faturamento>5000.00</Faturamento>
+        </Dia>
+        <Dia data="09-02">
+            <Faturamento>null</Faturamento>
+        </Dia>
+        <Dia data="09-03">
+            <Faturamento>7000.00</Faturamento>
+        </Dia>
+        <Dia data="09-04">
+            <Faturamento>6200.00</Faturamento>
+        </Dia>
+        <Dia data="09-05">
+            <Faturamento>null</Faturamento>
+        </Dia>
+        <Dia data="09-06">
+            <Faturamento>null</Faturamento>
+        </Dia>
+        <Dia data="09-07">
+            <Faturamento>8000.00</Faturamento>
+        </Dia>
+        <Dia data="09-08">
+            <Faturamento>null</Faturamento>
+        </Dia>
+        <Dia data="09-09">
+            <Faturamento>7100.00</Faturamento>
+        </Dia>
+        <Dia data="09-10">
+            <Faturamento>6800.00</Faturamento>
+        </Dia>
+        <Dia data="09-11">
+            <Faturamento>null</Faturamento>
+        </Dia>
+        <Dia data="09-12">
+            <Faturamento>7500.00</Faturamento>
+        </Dia>
+        <Dia data="09-13">
+            <Faturamento>7300.00</Faturamento>
+        </Dia>
+        <Dia data="09-14">
+            <Faturamento>null</Faturamento>
+        </Dia>
+        <Dia data="09-15">
+            <Faturamento>null</Faturamento>
+        </Dia>
+        <Dia data="09-16">
+            <Faturamento>7900.00</Faturamento>
+        </Dia>
+        <Dia data="09-17">
+            <Faturamento>7600.00</Faturamento>
+        </Dia>
+        <Dia data="09-18">
+            <Faturamento>null</Faturamento>
+        </Dia>
+        <Dia data="09-19">
+            <Faturamento>8000.00</Faturamento>
+        </Dia>
+        <Dia data="09-20">
+            <Faturamento>null</Faturamento>
+        </Dia>
+        <Dia data="09-21">
+            <Faturamento>8500.00</Faturamento>
+        </Dia>
+        <Dia data="09-22">
+            <Faturamento>null</Faturamento>
+        </Dia>
+        <Dia data="09-23">
+            <Faturamento>7700.00</Faturamento>
+        </Dia>
+        <Dia data="09-24">
+            <Faturamento>null</Faturamento>
+        </Dia>
+        <Dia data="09-25">
+            <Faturamento>7100.00</Faturamento>
+        </Dia>
+        <Dia data="09-26">
+            <Faturamento>6900.00</Faturamento>
+        </Dia>
+        <Dia data="09-27">
+            <Faturamento>7200.00</Faturamento>
+        </Dia>
+        <Dia data="09-28">
+            <Faturamento>null</Faturamento>
+        </Dia>
+        <Dia data="09-29">
+            <Faturamento>null</Faturamento>
+        </Dia>
+        <Dia data="09-30">
+            <Faturamento>7800.00</Faturamento>
+        </Dia>
+    </Dias>
+</FaturamentoMensal>
